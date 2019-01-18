@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TypeColor</string>
+    <string name="green">Green is said to be the most neutral color.</string>
+    <string name="black">Black is the absence of color and is therefore not a color.</string>
+    <string name="white">White is the blending of all colors.</string>
+    <string name="red">Red is thought to be the sign of anger, love, power.</string>
+    <string name="blue">Blue can give the feelings of harmony, peace and caring.</string>
+    <string name="pink">Pink is a pale red color that is named after a flower of the same name.</string>
+    <string name="brown">The first recorded use of brown as a color name in English was in 1000.</string>
+    <string name="violet">Violet is the color at the end of the visible spectrum of light between blue and the invisible ultraviolet.</string>
+    <string name="orange">In Ukraine in November–December 2004, it became the colour of the Orange Revolution.</string>
+    <string name="purple">Purple is the color most often associated with rareness, royalty, magic, mystery, and piety.</string>
+    <string name="gray">It is a neutral or achromatic color, meaning literally that it is a color \"without color\".</string>
+    <string name="yellow">Because it was widely available, yellow ochre pigment was one of the first colors used in art. </string>
+</resources>

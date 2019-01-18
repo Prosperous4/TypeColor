@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Type color as in example below and press Button"
+        android:textColor="@android:color/white"
+        android:padding = "16dp"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="66dp"
+        android:layout_marginBottom="1dp"
+        android:ems="10"
+        android:hint="YELLOW"
+        android:maxLength="12"
+        android:inputType="textCapCharacters"
+        android:textAllCaps="true"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/white"
+        android:onClick="startActivity"
+        android:text="Button"
+        android:textAllCaps="true"
+        android:textColor="@android:color/black" />
+
+</RelativeLayout>
